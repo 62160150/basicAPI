@@ -1,7 +1,7 @@
 [
     {
         "title" : "What is Halloween",
-        "subtitle" : "Halloween",
+        "subtitle" : "Halloween or Hallowe'en (a contraction of 'All Hallows' evening'), less commonly known as Allhalloween, All Hallows' Eve, or All Saints' Eve, is a celebration observed in many countries on 31 October",
         "image_url" : "https://image.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg",
         "detail" : "Halloween is thought to have roots in Christian beliefs and practices. The name 'Halloween' comes from being the evening before the Christian holy days of All Hallows' Day (All Saints' Day) on 1 November and All Souls' Day on 2 November."
     }
@@ -15,9 +15,9 @@
     ,
     {
         "title" : "Pumpkin",
-        "subtitle" : "The pumpkin is native to the continent of North America. The pumpkin was an early export to France; from there it was introduced to Tudor England, and the flesh of the "pompion" was quickly accepted as pie filler.",
+        "subtitle" : "The pumpkin is native to the continent of North America. The pumpkin was an early export to France; from there it was introduced to Tudor England, and the flesh of the 'pompion' was quickly accepted as pie filler.",
         "image_url" : "https://image.freepik.com/free-vector/flat-design-halloween-background_52683-72471.jpg",
-        "detail" : "The pumpkin is native to the continent of North America. The pumpkin was an early export to France; from there it was introduced to Tudor England, and the flesh of the "pompion" was quickly accepted as pie filler. During the seventeenth century, pumpkin pie recipes could be found in English cookbooks, such as Hannah Woolley's The Gentlewoman's Companion (1675). Pumpkin "pies" made by early American colonists were more likely to be a savory soup made and served in a pumpkin than a sweet custard in a crust."
+        "detail" : "The pumpkin is native to the continent of North America. The pumpkin was an early export to France; from there it was introduced to Tudor England, and the flesh of the 'pompion' was quickly accepted as pie filler. During the seventeenth century, pumpkin pie recipes could be found in English cookbooks, such as Hannah Woolley's The Gentlewoman's Companion (1675). Pumpkin "pies" made by early American colonists were more likely to be a savory soup made and served in a pumpkin than a sweet custard in a crust."
         
     }    
 ]
